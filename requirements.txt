@@ -1,2 +1,2 @@
-pip install streamlit
-pip install streamlit-timeline
+streamlit
+streamlit-timeline
